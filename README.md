@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I am Elizaveta Kozerenko 👋
+- 😄 I am an Artificial Intelligence and Computer Science graduate of the University of Birmingham (2024)
+- 🔭 Seeking job opportunities as a Junior Python Development
+- Python | AI & ML | Software Development
+- 📫 You can reach me out on [LinkedIn](https://www.linkedin.com/in/elizaveta-kozerenko-11b369256/)
+- 📫 Or by contacting me on my email: eekozerenko@gmail.com
 
 <!--
 **Elizaveta-Kozerenko/Elizaveta-Kozerenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
